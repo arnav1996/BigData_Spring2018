@@ -1,0 +1,9 @@
+datasets: 2
+attributes: 233
+max edges: 1140
+significant edges: 48
+  score >= 0.6: 1
+
+graph relationship {
+weather_avg_Wteq_Snow_ -- citibike_avg_tripduration (score=1.0,strength=0.02892562) [color=red];
+}

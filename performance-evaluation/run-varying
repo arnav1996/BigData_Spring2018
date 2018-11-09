@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+m=cusp
+n=20
+
+echo 2 datasets
+./aggregation/aggregation $m $n
+./index-creation/index $m $n
+./relationship/relationship $m $n

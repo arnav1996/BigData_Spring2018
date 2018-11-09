@@ -1,0 +1,10 @@
+unique-end-station-id,avg-price	-0.5995904898136135,0.5075491817373283,0.7215277209926276,0.0,0.0,0.0
+unique-bikeid,avg-price	-0.5418694026576542,0.4624442290779567,0.7050323089621243,0.0,0.0,0.0
+avg-tripduration,avg-price	-0.31934978425947014,0.14826423430745297,0.7880342192804581,0.0,0.0,0.0
+unique-start-station-id,avg-price	-0.6024310490026762,0.5001258435868156,0.7206553892545247,0.0,0.0,0.0
+count-tripduration,avg-price	-0.27911346251522823,0.21012684267288373,0.8117103985015313,0.0,0.0,0.0
+unique-end-station-id,count-time	NaN,0.0,NaN,0.0,1.0,0.0
+unique-bikeid,count-time	NaN,0.0,NaN,0.0,1.0,0.0
+avg-tripduration,count-time	NaN,0.0,NaN,0.0,1.0,0.0
+unique-start-station-id,count-time	NaN,0.0,NaN,0.0,1.0,0.0
+count-tripduration,count-time	NaN,0.0,NaN,0.0,1.0,0.0

@@ -1,0 +1,2 @@
+weather	0
+citibike	1

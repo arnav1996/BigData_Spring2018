@@ -1,0 +1,1 @@
+hadoop jar ../data-polygamy.jar edu.nyu.vida.data_polygamy.scalar_function_computation.Aggregation -f -m cusp -n 20 -g citibike 0 0 weather 0 0

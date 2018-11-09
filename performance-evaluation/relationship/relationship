@@ -1,0 +1,1 @@
+hadoop jar ../data-polygamy.jar edu.nyu.vida.data_polygamy.relationship_computation.Relationship -f -r -m cusp -n 20 -g1 citibike -g2 weather

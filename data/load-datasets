@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+hdfs dfs -put weather* data/ 
+hdfs dfs -put citibike* data/
+hdfs dfs -put gas-prices* data/
